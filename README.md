@@ -13,3 +13,5 @@ Replace the stinky windows emojis with the apple ones
 
 
 Windows might get a lil bit funky if there are 2 installed emoji fonts which is why step 2 exist
+
+Original apple emoji font file from: zhdsmy/apple-emoji.git
