@@ -3,7 +3,7 @@ Replace the stinky windows emojis with the apple ones
 
 ## Install Guide
 1. Download the font appleemj.ttf in releases
-2. use a tool like IObit Unlocker to unlock and delete the original Segoe UI Emoji font included with windows (I recommend making a backup before deletion just in case)
+2. use a tool like IObit Unlocker to unlock and delete the original Segoe UI Emoji font included with windows (I recommend making a backup of the font before deletion just in case)
 3. Right click appleemj.ttf, select Show more Options -> Install for all users
 4. Restart PC
 5. Enjoy emojis 🔥🔥🔥
